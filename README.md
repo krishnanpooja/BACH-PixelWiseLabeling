@@ -1,2 +1,2 @@
-# BACH-PixelWiseLabelling
+# BACH-PixelWiseLabeling
 Pixel Wise Labeling of Whole Slide images
