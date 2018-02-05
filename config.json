@@ -1,0 +1,6 @@
+{
+ "BACHLoader":
+  {
+    "data_path": "/home/deepita/pytorch-semseg-master/ptsemseg/dataset/"
+  }
+}
