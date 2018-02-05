@@ -70,7 +70,7 @@ def readXML(filename):
 
 def saveImage(filename,image_size,coordinates,labels,sample=4):
     #red is 'benign', green is 'in situ' and blue is 'invasive'
-    colors = [(0,0,0),(255,0,0),(0,255,0),(0,0,255)]
+    colors = [(0,0,0),(250,0,0),(0,150,0),(0,0,70)]
     
     img = np.zeros(image_size,dtype=np.uint8)
     
