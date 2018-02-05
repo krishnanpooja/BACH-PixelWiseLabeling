@@ -1,15 +1,6 @@
-# pytorch-semseg
-
 ## Semantic Segmentation Implemented in PyTorch
 
-Code to perform pixel-wise labeling of whole-slide images. 
-
-
-<p align="center">
-<a href="https://www.youtube.com/watch?v=iXh9aCK3ubs" target="_blank"><img src="https://i.imgur.com/agvJOPF.gif" width="364"/></a>
-<img src="https://meetshah1995.github.io/images/blog/ss/ptsemseg.png" width="49%"/>
-</p>
-
+Code to perform pixel-wise labeling of whole-slide images.
 
 ### Networks implemented
 
