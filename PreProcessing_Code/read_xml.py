@@ -68,7 +68,7 @@ def readXML(filename):
 
     return coords,labels,length,area,pixel_spacing
 
-def saveImage(filename,image_size,coordinates,labels,sample=4):
+def saveImage(filename,image_size,coordinates,labels,sample=32):
     #red is 'benign', green is 'in situ' and blue is 'invasive'
     colors = [(0,0,0),(250,0,0),(0,150,0),(0,0,70)]
     
